@@ -1,0 +1,1 @@
+All contents of this repository have been transferred to the [sims_maf_contrib](https://github.com/lsst-nonproject/sims_maf_contrib) repository, in the 'tutorials' and 'science' directories  as appropriate.
